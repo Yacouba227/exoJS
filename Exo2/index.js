@@ -12,8 +12,6 @@ for(let i = 0; i < monParagraphe.length; i++){
 // 3
 const blueclaire = document.querySelectorAll('.blue');
 for(let i = 0; i < blueclaire.length; i++){
-   // blueclaire[i].style.color = '#8A2BE2';
-     
      blueclaire[i].setAttribute('style', 'background-color: #6495ED;');
 }
 // 4
